@@ -6,20 +6,18 @@ Ele serve como uma vitrine para meus projetos, habilidades e experiências profi
 
 ### 🚀 Visitar o site
 Você pode visitar o portfólio online
-**[{aqui}](https://joaopedrocaraujo.vercel.app/)**
+**[aqui](https://joaopedrocaraujo.vercel.app/)**
 
 ### 💻 Tecnologias Utilizadas
 * **Framework:** [Next.js](https://nextjs.org/)
 * **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
-* **Estilização:** {Ex: CSS Modules, Tailwind CSS, Styled Components...}
+* **Estilização:** [Tailwind](https://tailwindcss.com/)
 * **Hospedagem:** [Vercel](https://vercel.com/)
-* **Outras bibliotecas:** {Ex: Framer Motion para animações, etc.}
 
 ### ✨ Funcionalidades
 * **Design responsivo:** O site se adapta a diferentes tamanhos de tela (desktop, tablet e mobile).
 * **Otimização para SEO:** Utiliza Server-Side Rendering (SSR) e Static Site Generation (SSG) do Next.js.
 * **Performance:** Páginas com carregamento rápido e otimizadas para os Core Web Vitals.
-* **{Mencione outras funcionalidades importantes do seu portfólio, como uma seção de blog, animações, etc.}**
 
 ### ⚙️ Como executar localmente
 Se você quiser rodar este projeto na sua máquina, siga os passos abaixo:
