@@ -6,7 +6,7 @@ Ele serve como uma vitrine para meus projetos, habilidades e experiências profi
 
 ### 🚀 Visitar o site
 Você pode visitar o portfólio online em:
-**{Link do seu portfólio na Vercel}**
+**[{Link do seu portfólio na Vercel}](https://joaopedrocaraujo.vercel.app/)**
 
 ### 💻 Tecnologias Utilizadas
 * **Framework:** [Next.js](https://nextjs.org/)
