@@ -23,9 +23,9 @@ Você pode visitar o portfólio online
 Se você quiser rodar este projeto na sua máquina, siga os passos abaixo:
 
 1.  Clone o repositório:
-    `git clone {Link do seu repositório no GitHub}`
+    `git clone https://github.com/joaopedroc-araujo/portfolio-next.git`
 2.  Entre na pasta do projeto:
-    `cd {Nome da pasta}`
+    `cd portfolio-next`
 3.  Instale as dependências:
     `npm install`
 4.  Inicie o servidor de desenvolvimento:
