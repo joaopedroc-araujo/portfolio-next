@@ -5,8 +5,8 @@ Olá! Este é o repositório do meu portfólio pessoal, construído com **Next.j
 Ele serve como uma vitrine para meus projetos, habilidades e experiências profissionais. A aplicação foi desenvolvida para ser rápida, otimizada para SEO e fácil de navegar.
 
 ### 🚀 Visitar o site
-Você pode visitar o portfólio online em:
-**[{Link do seu portfólio na Vercel}](https://joaopedrocaraujo.vercel.app/)**
+Você pode visitar o portfólio online
+**[{aqui}](https://joaopedrocaraujo.vercel.app/)**
 
 ### 💻 Tecnologias Utilizadas
 * **Framework:** [Next.js](https://nextjs.org/)
